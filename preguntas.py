@@ -3,7 +3,7 @@ preguntasFac1 = {
     "1. ¿Cuál es la capital de Colombia?":"C",
     "2. ¿De cuantos colores está compuesta la bandera de México?":"D",
     "3. ¿En qué país se encuentra la Torre Eiffel?":"A",
-    "4. ¿Cómo se denomina el resultado de la multiplicación?":"B",
+    "4. ¿Cómo se denomina el resultado de una multiplicación?":"B",
     "5. ¿Cómo se llama el actual presidente de los Estados Unidos?": "C"
 }
 respuestasFac1 = [["A. Medellín", "B. Cartagena", "C. Bogotá", "D. Cali"],
@@ -28,7 +28,7 @@ respuestasFac2 = [["A. Rusia", "B. Japón", "C. Italia", "D. Malta"],
 preguntasMed1 = {
     "1. ¿En qué año cayó el muro de Berlín?":"C",
     "2. ¿Cuántos años duró la Primera Guerra Mundial?":"D",
-    "3. ¿Cual es país más poblado de la Tierra?":"A",
+    "3. ¿Cuál es país más poblado de la Tierra?":"A",
     "4. ¿A qué país pertenece la ciudad de Varsovia?": "A",
     "5. ¿Cuál es el área del arte protagonista en los Premios Óscar?":"C"
 }
@@ -53,7 +53,7 @@ respuestasMed2 = [["A. España", "B. Egipto", "C. Francia", "D. Italia"],
 # Preguntas y respuestas ronda 5:
 preguntasDif1 = {
     "1. ¿En qué año se produce la Revolución Francesa?":"C",
-    "2. ¿Cuál es el órgano más grande del cuerpo humano?":"D",
+    "2. ¿Cuál es el organo más grande del cuerpo humano?":"D",
     "3. ¿Cuál es el estado que tiene menos habitantes del mundo?":"A",
     '4. ¿Qué miembro de los Beatles compuso "Yesterday"?':"A",
     "5. ¿Quién inventó la imprenta?":"D"
