@@ -15,3 +15,6 @@ A continuación se dará explicación del mismo:
 - 4 rondas generarán $10 por cada pregunta correcta para un total de $50 por ronda respondida correctamente (sin ninguna pregunta incorrecta).
 - La 5ta ronda generará $50 por respuesta correcta para un total de $250 en esta ronda respondiendo correctamente TODAS las preguntas.
 - Las respuestas incorrectas no generan ningún monto.
+
+
+NOTA: No es necesario instalar ninguna dependencia para ejecutar el juego.
