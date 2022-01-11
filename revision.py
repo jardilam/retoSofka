@@ -7,10 +7,11 @@ def revision(respuesta, res):
         print("Mal")
         return 0
 
-def revRonda5 (respuesta, res):
+def revRonda5(respuesta, res):
     if respuesta == res:
         print("¡Bien!")
         return 50
     else:
         print("Mal")
         return 0
+
