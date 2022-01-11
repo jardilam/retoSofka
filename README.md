@@ -3,6 +3,8 @@ Juego de trivia del reto Sofka
 
 En esta ocasión se presenta el juego de trivia del reto Sofka.
 
+POR FAVOR INGRESA A LA RAMA "TRIVIA", AHI ESTÁN LOS ARCHIVOS DEL RETO.
+
 A continuación se dará explicación del mismo:
 
 - Para acceder al juego hay varios archivos: preguntas, puntaje, revisión, rondas y trivia.
